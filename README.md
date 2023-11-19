@@ -1,0 +1,1 @@
+App de clima, consultando la api de OpenWeather
